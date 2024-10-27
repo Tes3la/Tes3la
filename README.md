@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: his/him
-- ⚡ Fun fact: I'm only 12 years old
+- ⚡ Fun fact: I'm only 13 years old
 
 <!---
 Tes3la/Tes3la is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
