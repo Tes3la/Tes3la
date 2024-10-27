@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @Tes3la
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning basic coding 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Javascrip,Python and C++
+- 💞️ I’m from Malaysia
+- 📫 Can reach me through my email: tes3la6911@gmail.com
 - 😄 Pronouns: his/him
 - ⚡ Fun fact: I'm only 13 years old
+- I can assist you with basic arduino, raspberry pi pico and ESP 32 coding. Reach me out through my email.
 
 <!---
 Tes3la/Tes3la is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
