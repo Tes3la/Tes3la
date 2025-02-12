@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tes3la
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning Javascript, Python and C++
+- 🌱 I’m currently learning Javascript, Python, Swift and C++
 - 💞️ I’m from Malaysia
 - 📫 Can reach me through my email: tes3la6911@gmail.com
 - 😄 Pronouns: his/him
